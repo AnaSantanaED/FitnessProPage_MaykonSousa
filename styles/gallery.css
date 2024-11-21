@@ -92,9 +92,19 @@ footer {
     font-style: italic;
 }
 
-@media (max-width:818px) {
+/* Estilos para dispositivos móveis */
+@media (max-width:767px) {
     .cabecalho {
         padding: 10%;
         justify-content: center;
     }
+}
+
+/* Estilos para tablets */
+@media (max-width:1024px) {
+        .cabecalho {
+            padding: 10%;
+            justify-content: center;
+        }
+
 }
