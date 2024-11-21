@@ -93,7 +93,7 @@ footer {
 }
 
 /* Estilos para dispositivos móveis */
-@media (max-width:767px) {
+@media (max-width:480px) {
     .cabecalho {
         padding: 10%;
         justify-content: center;
