@@ -27,7 +27,7 @@ A página foi desenvolvida para oferecer uma interface moderna, funcional e aces
 
 - Clone este repositório: https://github.com/AnaSantanaED/FitnessProPage_MaykonSousa.git
 - Abra o arquivo index.html diretamente em seu navegador.
-- Acesse a versão deployada através do link:
+- Acesse a versão deployada através do link: https://fitness-pro-page-maykon-sousa.vercel.app/
 
 ## <h2>🤝 Contribuição</h2>
 
